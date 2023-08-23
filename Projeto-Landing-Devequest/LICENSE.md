@@ -1,0 +1,4 @@
+Licença MIT: A Licença MIT é uma licença de código aberto permissiva que permite que qualquer pessoa use, modifique e distribua o seu código, desde que incluam o aviso de direitos autorais e a licença original. Esta licença não responsabiliza o autor original por danos e é amplamente utilizada em projetos open source.
+
+
+MIT License: The MIT License is a permissive open-source license that allows anyone to use, modify, and distribute your code, provided they include the copyright notice and the original license. This license does not hold the original author liable for damages and is widely used in open-source projects.
